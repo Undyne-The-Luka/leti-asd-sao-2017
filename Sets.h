@@ -31,11 +31,11 @@ class ListSet{
 public:
     ListSet();
     ListSet(char*);
-    ListSet(const ListSet&);
-    ListSet(ListSet&&);
+    ListSet(const ListSet&) = default;
+    ListSet(ListSet&&) = default;
     ~ListSet();
-    ListSet& operator = (const ArraySet&);
-    ListSet& operator = (ArraySet&&);
+    ListSet& operator = (const ListSet&) = default;
+    ListSet& operator = (ListSet&&) = default;
 
     ListSet operator & (const ListSet&) const;
     ListSet operator | (const ListSet&) const;
@@ -62,11 +62,11 @@ public:
     BitSet();
     BitSet(int);
     BitSet(char*);
-    BitSet(const BitSet&);
-    BitSet(BitSet&&);
-    ~BitSet();
-    BitSet& operator = (const ArraySet&);
-    BitSet& operator = (ArraySet&&);
+    BitSet(const BitSet&) = default;
+    BitSet(BitSet&&) = default;
+    ~BitSet() = default;
+    BitSet& operator = (const BitSet&) = default;
+    BitSet& operator = (BitSet&&) = default;
     BitSet operator & (const BitSet&) const;
     BitSet operator | (const BitSet&) const;
 

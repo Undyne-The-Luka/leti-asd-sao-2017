@@ -77,16 +77,6 @@ ListSet::ListSet(char* str) : head(nullptr), tail(nullptr)
     }
 };
 
-ListSet::ListSet(const ListSet&)
-{
-
-};
-
-ListSet::ListSet(ListSet &&)
-{
-
-};
-
 ListSet::~ListSet()
 {
     while(head)
@@ -186,22 +176,6 @@ BitSet::BitSet(char* str)
     for (int i = 0; str[i] != '\0'; ++i)
         add(str[i]);
 }
-
-BitSet::BitSet(const BitSet& another) : bit_array{another.bit_array}
-{
-
-};
-
-BitSet::BitSet(BitSet &&)
-{
-
-
-};
-
-BitSet::~BitSet()
-{
-
-};
 
 BitSet BitSet::operator&(const BitSet& another) const
 {
