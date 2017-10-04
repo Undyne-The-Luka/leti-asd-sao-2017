@@ -19,6 +19,7 @@ ArraySet::ArraySet(char* str)
 
 ArraySet ArraySet::operator & (const ArraySet& another) const
 {
+    std::cout << "Crossing sets:" << *this << " and " << another << "..." << std::endl;
     ArraySet new_set{};
 
     for (int i = 0; array[i] != '\0'; i++)
@@ -31,6 +32,7 @@ ArraySet ArraySet::operator & (const ArraySet& another) const
 
 ArraySet ArraySet::operator | (const ArraySet& another) const
 {
+    std::cout << "Uniting sets:" << *this << " and " << another << "..." << std::endl;
     ArraySet new_set{};
 
     for (int i = 0; i < array[i] != '\0'; i++)
@@ -90,6 +92,7 @@ ListSet::~ListSet()
 
 ListSet ListSet::operator&(const ListSet& other_set) const
 {
+    std::cout << "Crossing sets:" << *this << " and " << other_set << "..." << std::endl;
     ListSet new_set{};
 
     for (auto cur = head; cur; cur = cur->next)
@@ -104,6 +107,7 @@ ListSet ListSet::operator&(const ListSet& other_set) const
 
 ListSet ListSet::operator|(const ListSet& other_set) const
 {
+    std::cout << "Uniting sets:" << *this << " and " << other_set << "..." << std::endl;
     ListSet new_set{};
 
     for (auto cur = head; cur; cur = cur->next)
@@ -179,11 +183,13 @@ BitSet::BitSet(char* str)
 
 BitSet BitSet::operator&(const BitSet& another) const
 {
+    std::cout << "Crossing:" << *this << " and " << another << "..." << std::endl;
     return bit_array & another.bit_array;
 }
 
 BitSet BitSet::operator|(const BitSet& another) const
 {
+    std::cout << "Uniting sets:" << *this << " and " << another << "..." << std::endl;
     return bit_array | another.bit_array;
 }
 
