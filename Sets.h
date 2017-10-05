@@ -4,79 +4,95 @@
 #include <iostream>
 #include <bitset>
 
-class ArraySet{
+class ArraySet
+{
 public:
     ArraySet();
-    ArraySet(char*);
-    ArraySet(const ArraySet&) = default;
-    ArraySet(ArraySet&&) = default;
+    ArraySet ( const char* );
+    ArraySet ( const ArraySet& ) = default;
+    ArraySet ( ArraySet&& ) = default;
     ~ArraySet() = default;
-    ArraySet& operator = (const ArraySet&) = default;
-    ArraySet& operator = (ArraySet&&) = default;
+    ArraySet& operator = ( const ArraySet& ) = default;
+    ArraySet& operator = ( ArraySet&& ) = default;
+    ArraySet operator & ( const ArraySet& ) const ;
+    ArraySet operator | ( const ArraySet& ) const ;
+    bool operator == ( const ArraySet& ) const;
+    bool operator == ( const char* ) const;
 
-    ArraySet operator & (const ArraySet&) const ;
-    ArraySet operator | (const ArraySet&) const ;
-
-    void add(char element);
-    void remove(char element);
+    void add ( char element );
+    void remove ( char element );
     void show();
-private:
-    friend std::ostream& operator << (std::ostream &os, const ArraySet& hs);
+
+    std::string to_str() const;
 
     enum {SET_POWER = 16};
+private:
+    friend std::ostream& operator << ( std::ostream& os, const ArraySet& hs );
+
     char array[SET_POWER + 1];
 };
 
-class ListSet{
+class ListSet
+{
 public:
     ListSet();
-    ListSet(char*);
-    ListSet(const ListSet&) = default;
-    ListSet(ListSet&&) = default;
+    ListSet ( const char* );
+    ListSet ( const ListSet& );
+    ListSet ( ListSet&& );
     ~ListSet();
-    ListSet& operator = (const ListSet&) = default;
-    ListSet& operator = (ListSet&&) = default;
+    ListSet& operator = ( const ListSet& );
+    ListSet& operator = ( ListSet&& );
+    ListSet operator & ( const ListSet& ) const;
+    ListSet operator | ( const ListSet& ) const;
+    bool operator == ( const ListSet& ) const;
+    bool operator == ( const char* ) const;
 
-    ListSet operator & (const ListSet&) const;
-    ListSet operator | (const ListSet&) const;
-
-    void add(char elem);
-    void remove(char elem);
+    void add ( char elem );
+    void remove ( char elem );
     void show();
+
+    std::string to_str() const;
 private:
-    friend std::ostream& operator << (std::ostream &os, const ListSet& hs);
+    friend std::ostream& operator << ( std::ostream& os, const ListSet& hs );
 
     struct Node {
+        Node(char e) : data{e}, next{nullptr} {};
+
         char data;
         Node* next;
-        Node* prev;
     };
     Node* head;
     Node* tail;
 
-    Node* get_Node(char);
+    Node* get_Node ( char );
 };
 
-class BitSet{
+class BitSet
+{
 public:
     BitSet();
-    BitSet(int);
-    BitSet(char*);
-    BitSet(const BitSet&) = default;
-    BitSet(BitSet&&) = default;
+    BitSet ( int );
+    BitSet ( const char* );
+    BitSet ( const BitSet& ) = default;
+    BitSet ( BitSet&& ) = default;
     ~BitSet() = default;
-    BitSet& operator = (const BitSet&) = default;
-    BitSet& operator = (BitSet&&) = default;
-    BitSet operator & (const BitSet&) const;
-    BitSet operator | (const BitSet&) const;
+    BitSet& operator = ( const BitSet& ) = default;
+    BitSet& operator = ( BitSet&& ) = default;
+    BitSet operator & ( const BitSet& ) const;
+    BitSet operator | ( const BitSet& ) const;
+    bool operator == ( const BitSet& ) const;
+    bool operator == ( const char* ) const;
 
-    void add(char elem);
-    void remove(char elem);
+    void add ( char elem );
+    void remove ( char elem );
     void show();
+    void showBits();
+
+    std::string to_str() const;
 private:
-    int ctb(char);
-    const char* bts(int bytes) const;
-    friend std::ostream& operator << (std::ostream &os, const BitSet& hs);
+    int ctb ( char );
+    std::string bts ( int bytes ) const;
+    friend std::ostream& operator << ( std::ostream& os, const BitSet& hs );
 
     int bit_array;
 };
