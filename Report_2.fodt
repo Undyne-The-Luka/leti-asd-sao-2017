@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:document-statistic meta:character-count="16250" meta:image-count="6" meta:non-whitespace-character-count="12261" meta:object-count="1" meta:page-count="39" meta:paragraph-count="656" meta:table-count="1" meta:word-count="2304"/><meta:generator>LibreOffice/5.4.2.2$Linux_X86_64 LibreOffice_project/40m0$Build-2</meta:generator></office:meta>
+ <office:meta><meta:generator>LibreOffice/5.4.2.2$Linux_X86_64 LibreOffice_project/40m0$Build-2</meta:generator><dc:date>2017-10-12T06:22:55.474053464</dc:date><meta:editing-duration>PT1M35S</meta:editing-duration><meta:editing-cycles>2</meta:editing-cycles><meta:document-statistic meta:table-count="1" meta:image-count="6" meta:object-count="1" meta:page-count="18" meta:paragraph-count="656" meta:word-count="2304" meta:character-count="16250" meta:non-whitespace-character-count="12261"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">454378</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">27210</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">12878</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">28071</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">11975</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">9197</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">3041</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">7345</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">537030</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">27208</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">12876</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">454378</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">28069</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">466351</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -71,7 +71,7 @@
    <config:config-item config:name="InvertBorderSpacing" config:type="boolean">true</config:config-item>
    <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1731634</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1832748</config:config-item>
    <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -137,7 +137,7 @@
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Arial" fo:font-size="11pt" fo:language="ru" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="Arial1" style:font-size-asian="11pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="11pt" style:language-complex="hi" style:country-complex="IN"/>
   </style:default-style>
   <style:default-style style:family="paragraph">
-   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:line-height="115%" fo:text-align="start" style:justify-single-word="false" fo:keep-together="auto" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0in" style:auto-text-indent="false" fo:padding="0in" fo:border="none" fo:keep-with-next="auto" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.5in" style:writing-mode="page"/>
+   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:line-height="115%" fo:text-align="start" style:justify-single-word="false" fo:keep-together="auto" fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" fo:text-indent="0in" style:auto-text-indent="false" fo:padding="0in" fo:border="none" fo:keep-with-next="auto" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.5in" style:writing-mode="lr-tb"/>
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#000000" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="Arial" fo:font-size="11pt" fo:language="ru" fo:country="none" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="Arial1" style:font-size-asian="11pt" style:language-asian="zh" style:country-asian="CN" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="11pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2"/>
   </style:default-style>
   <style:default-style style:family="table">
@@ -462,96 +462,102 @@
    <style:paragraph-properties fo:margin-left="-0.1945in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false"/>
   </style:style>
   <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-left="-0.1945in" fo:margin-right="0in" fo:margin-top="0.139in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false"/>
-  </style:style>
-  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
-  </style:style>
-  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
-   <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
-  </style:style>
-  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
-   <style:text-properties style:font-name="Times New Roman" fo:font-size="14pt" style:font-name-asian="Times New Roman1" style:font-size-asian="14pt" style:font-name-complex="Times New Roman1" style:font-size-complex="14pt"/>
-  </style:style>
-  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
-   <style:text-properties style:font-name="Times New Roman" fo:font-size="14pt" fo:font-weight="bold" style:font-name-asian="Times New Roman1" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-name-complex="Times New Roman1" style:font-size-complex="14pt"/>
-  </style:style>
-  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
-   <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman1" style:font-name-complex="Times New Roman1"/>
-  </style:style>
-  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false"/>
-  </style:style>
-  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-left="0.25in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:text-indent="0in" style:auto-text-indent="false"/>
-  </style:style>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="Standard">
-   <style:paragraph-properties fo:margin-left="-0.1945in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:page-number="1"/>
-   <style:text-properties style:font-name="Times New Roman" fo:font-size="14pt" style:font-name-asian="Times New Roman1" style:font-size-asian="14pt" style:font-name-complex="Times New Roman1" style:font-size-complex="14pt"/>
-  </style:style>
-  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="-0.1945in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false"/>
    <style:text-properties style:font-name="Times New Roman" fo:font-size="14pt" style:font-name-asian="Times New Roman1" style:font-size-asian="14pt" style:font-name-complex="Times New Roman1" style:font-size-complex="14pt"/>
   </style:style>
-  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="-0.1945in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false"/>
    <style:text-properties style:font-name="Times New Roman" fo:font-size="18pt" fo:font-weight="bold" style:font-name-asian="Times New Roman1" style:font-size-asian="18pt" style:font-weight-asian="bold" style:font-name-complex="Times New Roman1" style:font-size-complex="18pt"/>
   </style:style>
-  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="-0.1945in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:text-indent="0in" style:auto-text-indent="false"/>
    <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman1" style:font-name-complex="Times New Roman1"/>
   </style:style>
-  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="-0.1945in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false"/>
    <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman1" style:font-name-complex="Times New Roman1"/>
   </style:style>
-  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
-   <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman1" style:font-name-complex="Times New Roman1"/>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <style:paragraph-properties fo:margin-left="-0.1945in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:page-number="1"/>
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="14pt" style:font-name-asian="Times New Roman1" style:font-size-asian="14pt" style:font-name-complex="Times New Roman1" style:font-size-complex="14pt"/>
   </style:style>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="-0.1945in" fo:margin-right="0in" fo:margin-top="0.139in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
    <style:text-properties style:font-name="Times New Roman" fo:font-size="14pt" style:font-name-asian="Times New Roman1" style:font-size-asian="14pt" style:font-name-complex="Times New Roman1" style:font-size-complex="14pt"/>
   </style:style>
-  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false"/>
    <style:text-properties style:font-name="Times New Roman" fo:font-size="14pt" style:font-name-asian="Times New Roman1" style:font-size-asian="14pt" style:font-name-complex="Times New Roman1" style:font-size-complex="14pt"/>
   </style:style>
-  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
    <style:text-properties style:font-name="Times New Roman" fo:font-size="14pt" fo:font-weight="bold" style:font-name-asian="Times New Roman1" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-name-complex="Times New Roman1" style:font-size-complex="14pt"/>
   </style:style>
-  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:orphans="0" fo:widows="0"/>
    <style:text-properties style:font-name="Times New Roman" fo:font-size="14pt" fo:font-weight="bold" style:font-name-asian="Times New Roman1" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-name-complex="Times New Roman1" style:font-size-complex="14pt"/>
   </style:style>
-  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Times New Roman" style:font-name-asian="Times New Roman1" style:font-name-complex="Times New Roman1"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:orphans="0" fo:widows="0"/>
    <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" fo:font-weight="bold" style:font-name-asian="Times New Roman1" style:font-size-asian="12pt" style:font-weight-asian="bold" style:font-name-complex="Times New Roman1" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:line-height="100%" fo:text-align="center" style:justify-single-word="false" fo:orphans="0" fo:widows="0"/>
    <style:text-properties style:font-name="Times New Roman" fo:font-size="12pt" style:font-name-asian="Times New Roman1" style:font-size-asian="12pt" style:font-name-complex="Times New Roman1" style:font-size-complex="12pt"/>
   </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-left="3.3472in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false"/>
-   <style:text-properties style:font-name="Times New Roman" fo:font-size="14pt" style:font-name-asian="Times New Roman1" style:font-size-asian="14pt" style:font-name-complex="Times New Roman1" style:font-size-complex="14pt"/>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false"/>
   </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0.25in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:text-indent="0in" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0.25in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:text-indent="0in" style:auto-text-indent="false"/>
    <style:text-properties style:font-name="Times New Roman" fo:font-size="14pt" style:font-name-asian="Times New Roman1" style:font-size-asian="14pt" style:font-name-complex="Times New Roman1" style:font-size-complex="14pt"/>
   </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum1">
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="3.3472in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false"/>
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="14pt" style:font-name-asian="Times New Roman1" style:font-size-asian="14pt" style:font-name-complex="Times New Roman1" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="true" fo:text-indent="-0.25in" style:auto-text-indent="false"/>
    <style:text-properties style:font-name="Times New Roman" fo:font-size="14pt" style:font-name-asian="Times New Roman1" style:font-size-asian="14pt" style:font-name-complex="Times New Roman1" style:font-size-complex="14pt"/>
   </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum2">
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="Standard">
+   <style:paragraph-properties fo:margin-left="-0.1945in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false" fo:text-indent="0in" style:auto-text-indent="false" style:page-number="1"/>
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="14pt" style:font-name-asian="Times New Roman1" style:font-size-asian="14pt" style:font-name-complex="Times New Roman1" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum1">
    <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="true" fo:text-indent="-0.25in" style:auto-text-indent="false"/>
    <style:text-properties style:font-name="Times New Roman" fo:font-size="14pt" style:font-name-asian="Times New Roman1" style:font-size-asian="14pt" style:font-name-complex="Times New Roman1" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum2">
+   <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="true" fo:text-indent="-0.25in" style:auto-text-indent="false"/>
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="14pt" style:font-name-asian="Times New Roman1" style:font-size-asian="14pt" style:font-name-complex="Times New Roman1" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Times New Roman" fo:font-size="14pt" fo:font-weight="bold" style:font-name-asian="Times New Roman1" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-name-complex="Times New Roman1" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" loext:contextual-spacing="false" fo:break-before="page"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties style:font-name="Times New Roman" fo:font-size="14pt" style:font-name-asian="Times New Roman1" style:font-size-asian="14pt" style:font-name-complex="Times New Roman1" style:font-size-complex="14pt"/>
@@ -587,34 +593,34 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
    </text:sequence-decls>
-   <text:p text:style-name="P12">Министерство науки и образования РФ</text:p>
-   <text:p text:style-name="P13">«Санкт-Петербургский государственный электротехнический</text:p>
-   <text:p text:style-name="P13">университет «ЛЭТИ» им. В. И. Ульянова (Ленина)»</text:p>
-   <text:p text:style-name="P13">(СПбГЭТУ «ЛЭТИ»)</text:p>
-   <text:p text:style-name="P13">Факультет компьютерных технологий и информатики</text:p>
-   <text:p text:style-name="P13">Кафедра вычислительной техники</text:p>
+   <text:p text:style-name="P24">Министерство науки и образования РФ</text:p>
+   <text:p text:style-name="P4">«Санкт-Петербургский государственный электротехнический</text:p>
+   <text:p text:style-name="P4">университет «ЛЭТИ» им. В. И. Ульянова (Ленина)»</text:p>
+   <text:p text:style-name="P4">(СПбГЭТУ «ЛЭТИ»)</text:p>
+   <text:p text:style-name="P4">Факультет компьютерных технологий и информатики</text:p>
+   <text:p text:style-name="P4">Кафедра вычислительной техники</text:p>
    <text:p text:style-name="P2"><text:s/></text:p>
    <text:p text:style-name="P2"><text:s/></text:p>
    <text:p text:style-name="P2"><text:s/></text:p>
    <text:p text:style-name="P2"><text:s/></text:p>
-   <text:p text:style-name="P14"><text:s/>Отчёт</text:p>
-   <text:p text:style-name="P14">по лабораторной работе № 2 на тему:</text:p>
-   <text:p text:style-name="P14">“Множество как объект”</text:p>
-   <text:p text:style-name="P14">по дисциплине “Алгоритмы и структуры данных”</text:p>
-   <text:p text:style-name="P14">Вариант 27</text:p>
-   <text:p text:style-name="P16"><text:s/></text:p>
-   <text:p text:style-name="P16"><text:s/></text:p>
-   <text:p text:style-name="P16"><text:s/></text:p>
-   <text:p text:style-name="P16"><text:s/></text:p>
-   <text:p text:style-name="P9"><text:s/></text:p>
-   <text:p text:style-name="P9"><text:s/></text:p>
-   <text:p text:style-name="P15"><text:s/></text:p>
-   <text:p text:style-name="P9"><text:s/></text:p>
+   <text:p text:style-name="P5"><text:s/>Отчёт</text:p>
+   <text:p text:style-name="P5">по лабораторной работе № 2 на тему:</text:p>
+   <text:p text:style-name="P5">“Множество как объект”</text:p>
+   <text:p text:style-name="P5">по дисциплине “Алгоритмы и структуры данных”</text:p>
+   <text:p text:style-name="P5">Вариант 27</text:p>
    <text:p text:style-name="P7"><text:s/></text:p>
-   <text:p text:style-name="P19">Выполнили студенты гр. 6306:</text:p>
-   <text:p text:style-name="P19">Прокопенко И.И.,</text:p>
-   <text:p text:style-name="P24">Золотухин М.А.</text:p>
-   <text:p text:style-name="P19">Преподаватель: Манирагена В.</text:p>
+   <text:p text:style-name="P7"><text:s/></text:p>
+   <text:p text:style-name="P7"><text:s/></text:p>
+   <text:p text:style-name="P7"><text:s/></text:p>
+   <text:p text:style-name="P16"><text:s/></text:p>
+   <text:p text:style-name="P16"><text:s/></text:p>
+   <text:p text:style-name="P6"><text:s/></text:p>
+   <text:p text:style-name="P16"><text:s/></text:p>
+   <text:p text:style-name="P12"><text:s/></text:p>
+   <text:p text:style-name="P13">Выполнили студенты гр. 6306:</text:p>
+   <text:p text:style-name="P13">Прокопенко И.И.,</text:p>
+   <text:p text:style-name="P22">Золотухин М.А.</text:p>
+   <text:p text:style-name="P13">Преподаватель: Манирагена В.</text:p>
    <text:p text:style-name="P3"><text:s/></text:p>
    <text:p text:style-name="P3"/>
    <text:p text:style-name="P3"/>
@@ -623,17 +629,18 @@
    <text:p text:style-name="P3"/>
    <text:p text:style-name="P3"/>
    <text:p text:style-name="P1"/>
-   <text:p text:style-name="P4"><text:s/><text:tab/><text:span text:style-name="T1">Санкт-Петербург</text:span></text:p>
-   <text:p text:style-name="P13">2017 г.</text:p>
-   <text:p text:style-name="P5"><text:span text:style-name="T2">Цель работы: </text:span><text:span text:style-name="T1">Преобразовать ранее созданную программу для обработки множеств, представленных объектами.</text:span></text:p>
-   <text:p text:style-name="P6"><text:soft-page-break/></text:p>
-   <text:p text:style-name="P5"><text:span text:style-name="T2">Задание: </text:span><text:span text:style-name="T1">Вычислить множество, содержащее цифры, имеющиеся в A, и все цифры, являющиеся общими для B, C и D.</text:span></text:p>
-   <text:p text:style-name="P7"/>
-   <text:p text:style-name="P5"><text:span text:style-name="T2">Универсум: </text:span><text:span text:style-name="T1">Шестнадцатеричные цифры</text:span></text:p>
-   <text:p text:style-name="P7">(0123456789ABCDEF)</text:p>
-   <text:p text:style-name="P7"/>
-   <text:p text:style-name="P5"><text:span text:style-name="T2">Уточнение задания: </text:span><text:span text:style-name="T1">Формула для вычисления множества</text:span></text:p>
-   <text:p text:style-name="P10"><draw:frame draw:style-name="fr2" draw:name="1" text:anchor-type="as-char" svg:width="1.3091in" svg:height="0.1953in" draw:z-index="0"><draw:object>
+   <text:p text:style-name="P9"><text:s/><text:tab/><text:span text:style-name="T1">Санкт-Петербург</text:span></text:p>
+   <text:p text:style-name="P4">2017 г.</text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T2"/></text:p>
+   <text:p text:style-name="P29"><text:span text:style-name="T2">Цель работы: </text:span><text:span text:style-name="T1">Преобразовать ранее созданную программу для обработки множеств, представленных объектами.</text:span></text:p>
+   <text:p text:style-name="P11"/>
+   <text:p text:style-name="P10"><text:span text:style-name="T2">Задание: </text:span><text:span text:style-name="T1">Вычислить множество, содержащее цифры, имеющиеся в A, и все цифры, являющиеся общими для B, C и D.</text:span></text:p>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P10"><text:span text:style-name="T2">Универсум: </text:span><text:span text:style-name="T1">Шестнадцатеричные цифры</text:span></text:p>
+   <text:p text:style-name="P12">(0123456789ABCDEF)</text:p>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P10"><text:span text:style-name="T2">Уточнение задания: </text:span><text:span text:style-name="T1">Формула для вычисления множества</text:span></text:p>
+   <text:p text:style-name="P19"><draw:frame draw:style-name="fr2" draw:name="1" text:anchor-type="as-char" svg:width="1.3091in" svg:height="0.1953in" draw:z-index="0"><draw:object>
       <math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
        <semantics>
         <mrow>
@@ -661,50 +668,52 @@
        </semantics>
       </math>
      </draw:object><draw:image>
-      <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAAf0MAADv
-       AQAAVQAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAAPwMAADuAQAAlQAB
-       AAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAOQAAAAMAMwAAAAcAQ2FsYWRlYQAA
-       AAAAAKYBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEA
-       BQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAABqAAAAjQEAAAEARfQAAAAAAAEAAQBFAIwA
-       AQAAAAAAiwABAAIAAAAfAIoAAQA8AAAAAwA2AAAACgBPcGVuU3ltYm9sAAAAAAAApgEAAP//
-       AAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCG
-       AAEABAAAAAAAAAByAAIAGgAAAHIBAACNAQAAAQAAAD0A+gAAAAAAAQABAD0AjAABAAAAAACL
-       AAEAAgAAAB8AigABADkAAAADADMAAAAHAENhbGFkZWEAAAAAAACmAQAAAAADAAAABQAAAAAA
-       AgD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAA
-       AHIAAgAXAAAAlQIAAI0BAAABAEETAQAAAAABAAEAQQCMAAEAAAAAAIsAAQACAAAAHwCKAAEA
-       OQAAAAMAMwAAAAcAQ2FsYWRlYQAAAAAAAKYBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA
-       /wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAAAIBAAA
-       jQEAAAEAP10AAAAAAAEAAQAqIowAAQAAAAAAiwABAAIAAAAfAIoAAQA8AAAAAwA2AAAACgBP
-       cGVuU3ltYm9sAAAAAAAApgEAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAAB
-       AAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAAIwEAACNAQAAAQAAACgA
-       rAAAAAAAAQABACgAjAABAAAAAACLAAEAAgAAAB8AigABADkAAAADADMAAAAHAENhbGFkZWEA
-       AAAAAACmAQAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAAAACIAAEAAgAAAAEAhwAB
-       AAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAAYAUAAI0BAAABAEITAQAAAAABAAEAQgCM
-       AAEAAAAAAIsAAQACAAAAHwCKAAEAOQAAAAMAMwAAAAcAQ2FsYWRlYQAAAAAAAKYBAAAAAAMA
-       AAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgAB
-       AAQAAAAAAAAAcgACABcAAACdBgAAjQEAAAEAP0ABAAAAAAEAAQApIowAAQAAAAAAiwABAAIA
-       AAAfAIoAAQA5AAAAAwAzAAAABwBDYWxhZGVhAAAAAAAApgEAAAAAAwAAAAUAAAAAAAIA/wMA
-       AAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIA
-       FwAAABAIAACNAQAAAQBD8gAAAAAAAQABAEMAjAABAAAAAACLAAEAAgAAAB8AigABADkAAAAD
-       ADMAAAAHAENhbGFkZWEAAAAAAACmAQAAAAADAAAABQAAAAAAAgD/AwAAAAAAAAAAAP8DAAAA
-       AACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAAMwkAAI0BAAAB
-       AD9AAQAAAAABAAEAKSKMAAEAAAAAAIsAAQACAAAAHwCKAAEAOQAAAAMAMwAAAAcAQ2FsYWRl
-       YQAAAAAAAKYBAAAAAAMAAAAFAAAAAAACAP8DAAAAAAAAAAAA/wMAAAAAAIgAAQACAAAAAQCH
-       AAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAAClCgAAjQEAAAEARCkBAAAAAAEAAQBE
-       AIwAAQAAAAAAiwABAAIAAAAfAIoAAQA8AAAAAwA2AAAACgBPcGVuU3ltYm9sAAAAAAAApgEA
-       AP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAAD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA////
-       /wCGAAEABAAAAAAAAAByAAIAGgAAAOMLAACNAQAAAQAAACkArAAAAAAAAQABACkAjAABAAAA
-       AACVAAEABAAAAAAAAACWAAEAAgAAAAkAjAABAAAAAAA=
+      <office:binary-data>VkNMTVRGAQAxAAAAAAAAAAEAGwAAAAAAAAAAAAAAAAABAAAAAQAAAAEAAAABAAAAATgOAAD8
+       AQAAVQAAAJYAAQACAAAACQCLAAEAAgAAAP//gQABABAAAAAAAAAAAAAAADcOAAD7AQAAlQAB
+       AAQAAAAAAAAAlgABAAIAAAAJAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlv
+       biBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAACAP8DAAAAAAAAAAEA/wMAAAAAAIgAAQAC
+       AAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcAAACEAAAAjQEAAAEARQIBAAAA
+       AAEAAQBFAIwAAQAAAAAAiwABAAIAAAAfAIoAAQA8AAAAAwA2AAAACgBPcGVuU3ltYm9sAAAA
+       AAAApgEAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAQD/AwAAAAAAiAABAAIAAAABAIcAAQAF
+       AAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAAI0BAACNAQAAAQAAAD0ATwEAAAAAAQABAD0A
+       jAABAAAAAACLAAEAAgAAAB8AigABAEIAAAADADwAAAAQAExpYmVyYXRpb24gU2VyaWYAAAAA
+       AACmAQAAAAAAAAAABQAAAAAAAgD/AwAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEAhwABAAUA
+       AAD/////AIYAAQAEAAAAAAAAAHIAAgAXAAAAGgMAAI0BAAABAEECAQAAAAABAAEAQQCMAAEA
+       AAAAAIsAAQACAAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlvbiBTZXJpZgAAAAAAAKYB
+       AAAAAAAAAAAFAAAAAAACAP8DAAAAAAAAAAEA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP//
+       //8AhgABAAQAAAAAAAAAcgACABkAAABXBAAAjQEAAAMA4oiqYQEAAAAAAQABACoijAABAAAA
+       AACLAAEAAgAAAB8AigABADwAAAADADYAAAAKAE9wZW5TeW1ib2wAAAAAAACmAQAA//8AAAAA
+       BQAAAAAAAAD/AwAAAAAAAAABAP8DAAAAAACIAAEAAgAAAAEAhwABAAUAAAD/////AIYAAQAE
+       AAAAAAAAAHIAAgAaAAAA5AUAAI0BAAABAAAAKACPAAAAAAABAAEAKACMAAEAAAAAAIsAAQAC
+       AAAAHwCKAAEAQgAAAAMAPAAAABAATGliZXJhdGlvbiBTZXJpZgAAAAAAAKYBAAAAAAAAAAAF
+       AAAAAAACAP8DAAAAAAAAAAEA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQA
+       AAAAAAAAcgACABcAAACDBgAAjQEAAAEAQgIBAAAAAAEAAQBCAIwAAQAAAAAAiwABAAIAAAAf
+       AIoAAQBCAAAAAwA8AAAAEABMaWJlcmF0aW9uIFNlcmlmAAAAAAAApgEAAAAAAAAAAAUAAAAA
+       AAIA/wMAAAAAAAAAAQD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAA
+       AAByAAIAGQAAAMAHAACNAQAAAwDiiKkxAQAAAAABAAEAKSKMAAEAAAAAAIsAAQACAAAAHwCK
+       AAEAQgAAAAMAPAAAABAATGliZXJhdGlvbiBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAAC
+       AP8DAAAAAAAAAAEA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAA
+       cgACABcAAAAYCQAAjQEAAAEAQxkBAAAAAAEAAQBDAIwAAQAAAAAAiwABAAIAAAAfAIoAAQBC
+       AAAAAwA8AAAAEABMaWJlcmF0aW9uIFNlcmlmAAAAAAAApgEAAAAAAAAAAAUAAAAAAAIA/wMA
+       AAAAAAAAAQD/AwAAAAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIA
+       GQAAAIsKAACNAQAAAwDiiKkxAQAAAAABAAEAKSKMAAEAAAAAAIsAAQACAAAAHwCKAAEAQgAA
+       AAMAPAAAABAATGliZXJhdGlvbiBTZXJpZgAAAAAAAKYBAAAAAAAAAAAFAAAAAAACAP8DAAAA
+       AAAAAAEA/wMAAAAAAIgAAQACAAAAAQCHAAEABQAAAP////8AhgABAAQAAAAAAAAAcgACABcA
+       AAD9CwAAjQEAAAEARDEBAAAAAAEAAQBEAIwAAQAAAAAAiwABAAIAAAAfAIoAAQA8AAAAAwA2
+       AAAACgBPcGVuU3ltYm9sAAAAAAAApgEAAP//AAAAAAUAAAAAAAAA/wMAAAAAAAAAAQD/AwAA
+       AAAAiAABAAIAAAABAIcAAQAFAAAA/////wCGAAEABAAAAAAAAAByAAIAGgAAADsNAACNAQAA
+       AQAAACkAjwAAAAAAAQABACkAjAABAAAAAACVAAEABAAAAAAAAACWAAEAAgAAAAkAjAABAAAA
+       AAA=
       </office:binary-data>
      </draw:image>
     </draw:frame></text:p>
-   <text:p text:style-name="P8">Способы задания множества:</text:p>
-   <text:p text:style-name="P5"><text:span text:style-name="T1">1.</text:span><text:span text:style-name="T3"> <text:s text:c="5"/></text:span><text:span text:style-name="T1">Массивы символов</text:span></text:p>
-   <text:p text:style-name="P11"><text:span text:style-name="T1">2.</text:span><text:span text:style-name="T3"> <text:s text:c="5"/></text:span><text:span text:style-name="T1">Список</text:span></text:p>
-   <text:p text:style-name="P25">3.<text:tab/>Массив битов (машинное слово)</text:p>
-   <text:p text:style-name="P7"/>
-   <text:p text:style-name="P8">Примеры множеств:</text:p>
-   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P14">Способы задания множества:</text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T1">1.</text:span><text:span text:style-name="T3"> <text:s text:c="5"/></text:span><text:span text:style-name="T1">Массивы символов</text:span></text:p>
+   <text:p text:style-name="P20"><text:span text:style-name="T1">2.</text:span><text:span text:style-name="T3"> <text:s text:c="5"/></text:span><text:span text:style-name="T1">Список</text:span></text:p>
+   <text:p text:style-name="P21">3.<text:tab/>Массив битов (машинное слово)</text:p>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P14">Примеры множеств:</text:p>
+   <text:p text:style-name="P14"/>
    <table:table table:name="Table1" table:style-name="Table1">
     <table:table-column table:style-name="Table1.A"/>
     <table:table-column table:style-name="Table1.B"/>
@@ -712,109 +721,109 @@
     <table:table-column table:style-name="Table1.F"/>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P21">№</text:p>
+      <text:p text:style-name="P15">№</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P22">A</text:p>
+      <text:p text:style-name="P17">A</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P22">B</text:p>
+      <text:p text:style-name="P17">B</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P22">C</text:p>
+      <text:p text:style-name="P17">C</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P22">D</text:p>
+      <text:p text:style-name="P17">D</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P22">E</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table1.1">
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P21">1</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P23">012</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P23">1356</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P23">2895</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P23">0126985</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P22">0125</text:p>
+      <text:p text:style-name="P17">E</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P21">2</text:p>
+      <text:p text:style-name="P15">1</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P23">-</text:p>
+      <text:p text:style-name="P18">012</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P23">285</text:p>
+      <text:p text:style-name="P18">1356</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P23">-</text:p>
+      <text:p text:style-name="P18">2895</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P23">135</text:p>
+      <text:p text:style-name="P18">0126985</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P22">-</text:p>
-     </table:table-cell>
-    </table:table-row>
-    <table:table-row table:style-name="Table1.1">
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P21">3</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P23">AD8</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P23">B36</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P23">12F9</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P23">CE54</text:p>
-     </table:table-cell>
-     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P22">AD8</text:p>
+      <text:p text:style-name="P17">0125</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table1.1">
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P21">4</text:p>
+      <text:p text:style-name="P15">2</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P23">BE13</text:p>
+      <text:p text:style-name="P18">-</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P23">42</text:p>
+      <text:p text:style-name="P18">285</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P23">42</text:p>
+      <text:p text:style-name="P18">-</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P23">42</text:p>
+      <text:p text:style-name="P18">135</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P22">BE1342</text:p>
+      <text:p text:style-name="P17">-</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table1.1">
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P15">3</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P18">AD8</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P18">B36</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P18">12F9</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P18">CE54</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P17">AD8</text:p>
+     </table:table-cell>
+    </table:table-row>
+    <table:table-row table:style-name="Table1.1">
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P15">4</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P18">BE13</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P18">42</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P18">42</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P18">42</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P17">BE1342</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P8"/>
-   <text:p text:style-name="P8">Временная сложность:</text:p>
-   <text:p text:style-name="P9">Рассчитывалась для статических данных, кол-во вычислений составляет 100000</text:p>
-   <text:p text:style-name="P5"><draw:frame draw:style-name="fr1" draw:name="image3.png" text:anchor-type="as-char" svg:width="6.2681in" svg:height="0.5in" draw:z-index="1"><draw:image loext:mime-type="image/png">
+   <text:p text:style-name="P14"/>
+   <text:p text:style-name="P14">Временная сложность:</text:p>
+   <text:p text:style-name="P16">Рассчитывалась для статических данных, кол-во вычислений составляет 100000</text:p>
+   <text:p text:style-name="P10"><draw:frame draw:style-name="fr1" draw:name="image3.png" text:anchor-type="as-char" svg:width="6.2681in" svg:height="0.5in" draw:z-index="1"><draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAoYAAAA0CAIAAACYdW55AAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAeHSURBVHhe7dpdcmJJFgPgXlotrZY3
        j/3Q+6k5TglZ5B8XKDAQ+sJB6CgPF1dMj3PcNf/8/v37169ff+Kv+qcZc0RExEqu5EfBTQys
@@ -856,17 +865,15 @@
       </office:binary-data>
      </draw:image>
     </draw:frame></text:p>
-   <text:p text:style-name="P5"><text:span text:style-name="T2">Вывод: </text:span><text:span text:style-name="T1">Из результатов видно, что по сравнению с массивами пользовательские типы данных требуют больше времени на обработку</text:span></text:p>
-   <text:p text:style-name="P8"/>
-   <text:p text:style-name="P8"/>
-   <text:p text:style-name="P8"/>
-   <text:p text:style-name="P8">Результаты работы программы:</text:p>
-   <text:list xml:id="list126325166" text:style-name="WWNum1">
+   <text:p text:style-name="P10"><text:span text:style-name="T2">Вывод: </text:span><text:span text:style-name="T1">Из результатов видно, что по сравнению с массивами пользовательские типы данных требуют больше времени на обработку</text:span></text:p>
+   <text:p text:style-name="P14"/>
+   <text:p text:style-name="P14">Результаты работы программы:</text:p>
+   <text:list xml:id="list1084583290" text:style-name="WWNum1">
     <text:list-item>
-     <text:p text:style-name="P26">Пример из 1-го пункта таблицы, инициализированный статически представлен массивом символов.</text:p>
+     <text:p text:style-name="P25">Пример из 1-го пункта таблицы, инициализированный статически представлен массивом символов.</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P5"><text:soft-page-break/><draw:frame draw:style-name="fr1" draw:name="image8.png" text:anchor-type="as-char" svg:width="6.2709in" svg:height="0.9535in" draw:z-index="2"><draw:image loext:mime-type="image/png">
+   <text:p text:style-name="P10"><text:soft-page-break/><draw:frame draw:style-name="fr1" draw:name="image8.png" text:anchor-type="as-char" svg:width="6.2709in" svg:height="0.9535in" draw:z-index="2"><draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAoEAAAB9CAYAAADdnLnzAAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAA01SURBVHhe7dvXciRJjoXherR+tNZa
        a6211lpd7uVe7PvUttMabPAQDrhnREYmK/7PDMZ0HHgwh2M2hOWwbt199923t6p77rmnrHvv
@@ -935,12 +942,12 @@
       </office:binary-data>
      </draw:image>
     </draw:frame></text:p>
-   <text:list xml:id="list130518251181635" text:continue-numbering="true" text:style-name="WWNum1">
+   <text:list xml:id="list62255619542359" text:continue-numbering="true" text:style-name="WWNum1">
     <text:list-item>
-     <text:p text:style-name="P26">Пример из 3-го пункта таблицы набранный на клавиатуре, представлен массивом, списком, машинным словом.</text:p>
+     <text:p text:style-name="P25">Пример из 3-го пункта таблицы набранный на клавиатуре, представлен массивом, списком, машинным словом.</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P5"><draw:frame draw:style-name="fr1" draw:name="image6.png" text:anchor-type="as-char" svg:width="6.2709in" svg:height="2.6516in" draw:z-index="3"><draw:image loext:mime-type="image/png">
+   <text:p text:style-name="P10"><draw:frame draw:style-name="fr1" draw:name="image6.png" text:anchor-type="as-char" svg:width="6.2709in" svg:height="2.6516in" draw:z-index="3"><draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAoIAAAEuCAYAAAAaxnMdAAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAABnZSURBVHhe7dtdcitHjgZQL81L8/Lm
        cR5mP55IhyFDUP4VWaRKqnMiMprAhyzxyh19EWz6j//73//523Ecx3Ecx7nf+eOvv/7623Ec
@@ -1069,7 +1076,7 @@
       </office:binary-data>
      </draw:image>
     </draw:frame></text:p>
-   <text:p text:style-name="P5"><draw:frame draw:style-name="fr1" draw:name="image12.png" text:anchor-type="as-char" svg:width="6.2709in" svg:height="0.4839in" draw:z-index="4"><draw:image loext:mime-type="image/png">
+   <text:p text:style-name="P10"><draw:frame draw:style-name="fr1" draw:name="image12.png" text:anchor-type="as-char" svg:width="6.2709in" svg:height="0.4839in" draw:z-index="4"><draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAoAAAAA9CAYAAAA9BtihAAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANiSURBVHhe7drRjpswEEDR/P9PbzEr
        ZycTG8NWAVqfI1mqPUPbx/uQxxcAAFMRgAAAk1kD8PF4vJyW3jy+xwMAwD0trfYabK2Aa71F
@@ -1092,12 +1099,12 @@
       </office:binary-data>
      </draw:image>
     </draw:frame></text:p>
-   <text:list xml:id="list130516935884548" text:continue-numbering="true" text:style-name="WWNum1">
+   <text:list xml:id="list62255865803400" text:continue-numbering="true" text:style-name="WWNum1">
     <text:list-item>
-     <text:p text:style-name="P26">Пример сгенерированных множеств, представлен массивом, списком, машинным словом.</text:p>
+     <text:p text:style-name="P25">Пример сгенерированных множеств, представлен массивом, списком, машинным словом.</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P5"><draw:frame draw:style-name="fr1" draw:name="image9.png" text:anchor-type="as-char" svg:width="6.2709in" svg:height="2.411in" draw:z-index="5"><draw:image loext:mime-type="image/png">
+   <text:p text:style-name="P10"><draw:frame draw:style-name="fr1" draw:name="image9.png" text:anchor-type="as-char" svg:width="6.2709in" svg:height="2.411in" draw:z-index="5"><draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAoAAAAEsCAYAAABT+wIrAAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAB34SURBVHhe7dqBbiJJrwbQ//1f+l4q
        KxPHU+2qBgLMcI7UAvtzddis1Fij/O//AAD4KF8L4P/+978fFwAA/67Lvvdz6bt1CbzlDAAA
@@ -1246,7 +1253,7 @@
       </office:binary-data>
      </draw:image>
     </draw:frame></text:p>
-   <text:p text:style-name="P5"><draw:frame draw:style-name="fr1" draw:name="image10.png" text:anchor-type="as-char" svg:width="6.2681in" svg:height="0.639in" draw:z-index="6"><draw:image loext:mime-type="image/png">
+   <text:p text:style-name="P10"><draw:frame draw:style-name="fr1" draw:name="image10.png" text:anchor-type="as-char" svg:width="6.2681in" svg:height="0.639in" draw:z-index="6"><draw:image loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAoMAAABBCAYAAACq0a4YAAAAAXNSR0IArs4c6QAAAARnQU1B
        AACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAODSURBVHhe7d1BbtswEAXQHC1Hy/G6
        7KL3SaGk41JjihQbm2rL9wDCHv4RnOWAkaCXt7e399fX1/fNy8vL3Qq1bFuhlm0LAIC/04/v
@@ -1269,724 +1276,724 @@
       </office:binary-data>
      </draw:image>
     </draw:frame></text:p>
-   <text:p text:style-name="P7"/>
-   <text:p text:style-name="P7"/>
-   <text:p text:style-name="P8">Код программы:</text:p>
-   <text:p text:style-name="P8"/>
-   <text:p text:style-name="P8">=====================Файл main.cpp======================</text:p>
-   <text:p text:style-name="P9"><text:soft-page-break/>#include &lt;time.h&gt;</text:p>
-   <text:p text:style-name="P9">#include &lt;iostream&gt;</text:p>
-   <text:p text:style-name="P9">#include &quot;Sets.h&quot;</text:p>
-   <text:p text:style-name="P9">#include &quot;Logger.h&quot;</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">char* set_gen();</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">int main(int argc, char **argv) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>using namespace std;</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>srand(time(NULL));</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>char st_A [ArraySet::SET_POWER + 1] {&quot;012&quot;};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>char st_B [ArraySet::SET_POWER + 1] {&quot;1356&quot;};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>char st_C [ArraySet::SET_POWER + 1] {&quot;2895&quot;};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>char st_D [ArraySet::SET_POWER + 1] {&quot;0126985&quot;};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ArraySet A {st_A};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ArraySet B {st_B};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ArraySet C {st_C};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ArraySet D {st_D};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ArraySet E {};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>cout &lt;&lt; &quot;Input: &quot; &lt;&lt; endl;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>cout &lt;&lt; A &lt;&lt; endl</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>&lt;&lt; B &lt;&lt; endl</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>&lt;&lt; C &lt;&lt; endl</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>&lt;&lt; D &lt;&lt; endl;</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>E = A | (B &amp; C &amp; D);</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>cout &lt;&lt; &quot;Result: &quot; &lt;&lt; endl;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>cout &lt;&lt; E &lt;&lt; endl;</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>char choice = 0;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>cout &lt;&lt; &quot;Generate, input from keyboard or run benchmark? (G\\K\\B) &quot;;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>cin &gt;&gt; choice;</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>if (choice == &apos;G&apos; || choice == &apos;g&apos;) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>A = set_gen();</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>B = set_gen();</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>C = set_gen();</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>D = set_gen();</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>}</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>else if (choice == &apos;K&apos; || choice == &apos;k&apos;) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>cout &lt;&lt; &quot;Type hexadecimal numbers in one string, without duplicates.&quot; &lt;&lt; endl;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>cout &lt;&lt; &quot;Set A: &quot;;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>cin &gt;&gt; st_A;</text:p>
-   <text:p text:style-name="P9"><text:soft-page-break/><text:s text:c="8"/>cout &lt;&lt; &quot;Set B: &quot;;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>cin &gt;&gt; st_B;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>cout &lt;&lt; &quot;Set C: &quot;;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>cin &gt;&gt; st_C;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>cout &lt;&lt; &quot;Set D: &quot;;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>cin &gt;&gt; st_D;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>}</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>else if (choice == &apos;B&apos; || choice == &apos;b&apos;) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>enum {REPEAT_NUM = 10000};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="8"/>ArraySet arr_A {st_A};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>ArraySet arr_B {st_B};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>ArraySet arr_C {st_C};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>ArraySet arr_D {st_D};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>ArraySet arr_E {};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="8"/>unsigned long start_time = clock();</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>for (int z = 0; z &lt; REPEAT_NUM; z++) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="12"/>arr_E = arr_A | (arr_B &amp; arr_C &amp; arr_D);</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>}</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>unsigned long finish_time = clock();</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>double arr_time = (finish_time - start_time)/* / static_cast&lt;double&gt;(REPEAT_NUM)*/;</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="8"/>ListSet list_A {st_A};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>ListSet list_B {st_B};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>ListSet list_C {st_C};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>ListSet list_D {st_D};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>ListSet list_E {};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="8"/>start_time = clock();</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>for (int z = 0; z &lt; REPEAT_NUM; z++) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="12"/>list_E = list_A | (list_B &amp; list_C &amp; list_D);</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>}</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>finish_time = clock();</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>double list_time = (finish_time - start_time)/* / static_cast&lt;double&gt;(REPEAT_NUM)*/;</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="8"/>BitSet bits_A {st_A};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>BitSet bits_B {st_B};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>BitSet bits_C {st_C};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>BitSet bits_D {st_D};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>BitSet bits_E {};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="8"/>start_time = clock();</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>for (int z = 0; z &lt; REPEAT_NUM; z++) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="12"/>bits_E = bits_A | (bits_B &amp; bits_C &amp; bits_D);</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>}</text:p>
-   <text:p text:style-name="P9"><text:soft-page-break/><text:s text:c="8"/>finish_time = clock();</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>double bits_time = (finish_time - start_time) /*/ static_cast&lt;double&gt;(REPEAT_NUM)*/;</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="8"/>cout &lt;&lt; &quot;Array time: &quot; &lt;&lt; arr_time &lt;&lt; endl;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>cout &lt;&lt; &quot;Lists clocks: &quot; &lt;&lt; list_time &lt;&lt; endl;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>cout &lt;&lt; &quot;Bits clocks: &quot; &lt;&lt; bits_time &lt;&lt; endl;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>return 0;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>}</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>// ARRAYS</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ArraySet arr_A {st_A};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ArraySet arr_B {st_B};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ArraySet arr_C {st_C};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ArraySet arr_D {st_D};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ArraySet arr_E {arr_A | (arr_B &amp; arr_C &amp; arr_D)};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>cout &lt;&lt; &quot;Sets as arrays: &quot; &lt;&lt; endl;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>cout &lt;&lt; &quot;Input: &quot; &lt;&lt; endl;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>arr_A.show();</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>arr_B.show();</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>arr_C.show();</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>arr_D.show();</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>cout &lt;&lt; &quot;Result: &quot; &lt;&lt; endl;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>arr_E.show();</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>// LIST</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ListSet list_A {st_A};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ListSet list_B {st_B};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ListSet list_C {st_C};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ListSet list_D {st_D};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ListSet list_E {list_A | (list_B &amp; list_C &amp; list_D)};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>cout &lt;&lt; &quot;Sets as lists: &quot; &lt;&lt; endl;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>cout &lt;&lt; &quot;Input: &quot; &lt;&lt; endl;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>list_A.show();</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>list_B.show();</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>list_C.show();</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>list_D.show();</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>cout &lt;&lt; &quot;Result: &quot; &lt;&lt; endl;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>list_E.show();</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>// BIT ARRAY</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>BitSet bits_A {st_A};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>BitSet bits_B {st_B};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>BitSet bits_C {st_C};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>BitSet bits_D {st_D};</text:p>
-   <text:p text:style-name="P9"><text:soft-page-break/><text:s text:c="4"/>BitSet bits_E {bits_A | (bits_B &amp; bits_C &amp; bits_D)};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>cout &lt;&lt; &quot;Sets as bits: &quot; &lt;&lt; endl;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>cout &lt;&lt; &quot;Input: &quot; &lt;&lt; endl;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>bits_A.show();</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>bits_B.show();</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>bits_C.show();</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>bits_D.show();</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>cout &lt;&lt; &quot;Result: &quot; &lt;&lt; endl;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>bits_E.show();</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>return 0;</text:p>
-   <text:p text:style-name="P9">}</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">char* set_gen()</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>char* A = new char[ArraySet::SET_POWER + 1];</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>char mask[] = &quot;0123456789ABCDEF&quot;;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>int j = 0;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>for (int i = 0; i &lt; 15; i++)</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>if (rand() % 2 == 1)</text:p>
-   <text:p text:style-name="P9"><text:s text:c="12"/>A[j++] = mask[i];</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>A[j] = &apos;\0&apos;;</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>return A;</text:p>
-   <text:p text:style-name="P9">}</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P8"/>
-   <text:p text:style-name="P8">=====================Файл sets.cpp======================</text:p>
-   <text:p text:style-name="P9">#include &quot;Sets.h&quot;</text:p>
-   <text:p text:style-name="P9">#include &quot;Logger.h&quot;</text:p>
-   <text:p text:style-name="P9">#include &lt;iostream&gt;</text:p>
-   <text:p text:style-name="P9">#include &lt;bitset&gt;</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">// === ARRAY ===</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">ArraySet::ArraySet()</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>array[0] = &apos;\0&apos;;</text:p>
-   <text:p text:style-name="P9">};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">ArraySet::ArraySet(const char* str)</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>int i {0};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>for (; i &lt; SET_POWER &amp;&amp; str[i] != &apos;\0&apos;; ++i) {</text:p>
-   <text:p text:style-name="P9"><text:soft-page-break/><text:s text:c="8"/>array[i] = str[i];</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>}</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>array[i] = &apos;\0&apos;;</text:p>
-   <text:p text:style-name="P9">};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">ArraySet ArraySet::operator &amp; (const ArraySet&amp; another) const</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>Logger::instance()-&gt;log(&quot;Crossing sets: &quot; + to_str() + &quot; and &quot; + another.to_str());</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ArraySet new_set {};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>for (int i = 0; array[i] != &apos;\0&apos;; i++)</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>for (int j = 0; another.array[j] != &apos;\0&apos;; j++)</text:p>
-   <text:p text:style-name="P9"><text:s text:c="12"/>if (array[i] == another.array[j]) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="16"/>new_set.add(array[i]);</text:p>
-   <text:p text:style-name="P9"><text:s text:c="12"/>}</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>return new_set;</text:p>
-   <text:p text:style-name="P9">};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">ArraySet ArraySet::operator | (const ArraySet&amp; another) const</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>Logger::instance()-&gt;log(&quot;Uniting sets: &quot; + to_str() + &quot; and &quot; + another.to_str());</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ArraySet new_set {};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>for (int i = 0; i &lt; array[i] != &apos;\0&apos;; i++) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>int j = 0;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>for (; another.array[j] != &apos;\0&apos;; j++)</text:p>
-   <text:p text:style-name="P9"><text:s text:c="12"/>if (array[i] == another.array[j]) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="16"/>break;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="12"/>}</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>if (another.array[j] == &apos;\0&apos;) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="12"/>new_set.add(array[i]);</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>}</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>}</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>for (int i = 0; another.array[i] != &apos;\0&apos;; ++i) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>new_set.add(another.array[i]);</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>}</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>return new_set;</text:p>
-   <text:p text:style-name="P9">};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">bool ArraySet::operator==(const ArraySet&amp; another) const</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>for (int i = 0;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="12"/>array[i] != &apos;\0&apos; &amp;&amp; another.array[i] != &apos;\0&apos;;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="12"/>i++</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>) {</text:p>
-   <text:p text:style-name="P9"><text:soft-page-break/><text:s text:c="8"/>if (array[i] != another.array[i]) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="12"/>return false;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>}</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>}</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>return true;</text:p>
-   <text:p text:style-name="P9">}</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">bool ArraySet::operator==(const char* s) const</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ArraySet str_set {s};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>return *this == str_set;</text:p>
-   <text:p text:style-name="P9">}</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">void ArraySet::add(char element)</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>for (int i = 0; i &lt; SET_POWER; ++i) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>if (array[i] == element)</text:p>
-   <text:p text:style-name="P9"><text:s text:c="12"/>return;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>else if (array[i] == &apos;\0&apos;) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="12"/>array[i] = element;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="12"/>array[i+1] = &apos;\0&apos;;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="12"/>return;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>}</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>}</text:p>
-   <text:p text:style-name="P9">}</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">void ArraySet::remove(char element)</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9">}</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">void ArraySet::show()</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>std::cout &lt;&lt; array &lt;&lt; std::endl;</text:p>
-   <text:p text:style-name="P9">}</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">std::string ArraySet::to_str() const</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>return std::string{array};</text:p>
-   <text:p text:style-name="P9">}</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">// === LIST ===</text:p>
-   <text:p text:style-name="P9">ListSet::ListSet() : head {nullptr}, tail {nullptr} {};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">ListSet::ListSet(const char* str) : head(nullptr), tail(nullptr)</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>for (int i = 0; str[i] != &apos;\0&apos;; i++) {</text:p>
-   <text:p text:style-name="P9"><text:soft-page-break/><text:s text:c="8"/>add(str[i]);</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>}</text:p>
-   <text:p text:style-name="P9">};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">ListSet::ListSet(const ListSet&amp; another)</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>head = nullptr;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>tail = nullptr;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>for (auto i = another.head; i != nullptr; i = i-&gt;next) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>add(i-&gt;data);</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>}</text:p>
-   <text:p text:style-name="P9">};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">ListSet::ListSet(ListSet &amp;&amp; another) : head {another.head}, tail {another.tail} {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>another.head = nullptr;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>another.tail = nullptr;</text:p>
-   <text:p text:style-name="P9">};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">ListSet&amp; ListSet::operator=(const ListSet&amp; another)</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>if (this != &amp;another) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>head = nullptr;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>tail = nullptr;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>for (auto i = another.head; i != nullptr; i = i-&gt;next) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="12"/>add(i-&gt;data);</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>}</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>}</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>return *this;</text:p>
-   <text:p text:style-name="P9">};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">ListSet&amp; ListSet::operator=(ListSet &amp;&amp; another)</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>if (this != &amp;another) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>head = another.head;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>tail = another.tail;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>another.head = nullptr;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>another.tail = nullptr;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>}</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>return *this;</text:p>
-   <text:p text:style-name="P9">};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">ListSet::~ListSet()</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>while (head) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>auto fordel = head;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>head = head-&gt;next;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>delete fordel;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>};</text:p>
-   <text:p text:style-name="P9"><text:soft-page-break/>};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">ListSet ListSet::operator&amp;(const ListSet&amp; another) const</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>Logger::instance()-&gt;log(&quot;Crossing sets: &quot; + to_str() + &quot; and &quot; + another.to_str());</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ListSet new_set {};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>for (auto cur = head; cur; cur = cur-&gt;next) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>for (auto cur2 = another.head; cur2; cur2 = cur2-&gt;next)</text:p>
-   <text:p text:style-name="P9"><text:s text:c="12"/>if (cur-&gt;data == cur2-&gt;data) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="16"/>new_set.add(cur-&gt;data);</text:p>
-   <text:p text:style-name="P9"><text:s text:c="12"/>}</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>}</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>return new_set;</text:p>
-   <text:p text:style-name="P9">};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">ListSet ListSet::operator|(const ListSet&amp; another) const</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>Logger::instance()-&gt;log(&quot;Uniting sets: &quot; + to_str() + &quot; and &quot; + another.to_str());</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ListSet new_set {};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>for (auto cur = head; cur; cur = cur-&gt;next) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>auto cur2 = another.head;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>for (; cur2; cur2 = cur2-&gt;next)</text:p>
-   <text:p text:style-name="P9"><text:s text:c="12"/>if (cur-&gt;data == cur2-&gt;data) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="16"/>break;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="12"/>}</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>if (!cur2) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="12"/>new_set.add(cur-&gt;data);</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>}</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>}</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>for (auto cur2 = another.head; cur2; cur2 = cur2-&gt;next) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>new_set.add(cur2-&gt;data);</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>}</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>return new_set;</text:p>
-   <text:p text:style-name="P9">};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">bool ListSet::operator==(const ListSet&amp; another) const</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>for (auto i = head; i != nullptr; i = i-&gt;next) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>for (auto j = another.head; j != nullptr; j = j-&gt;next) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="12"/>if (i-&gt;data != j-&gt;data) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="16"/>return false;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="12"/>}</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>}</text:p>
-   <text:p text:style-name="P9"><text:soft-page-break/><text:s text:c="4"/>}</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>return true;</text:p>
-   <text:p text:style-name="P9">};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">bool ListSet::operator==(const char* s) const</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ListSet str_set {s};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>return *this == str_set;</text:p>
-   <text:p text:style-name="P9">};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">void ListSet::add(char element)</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>if (!get_Node(element)) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>if (tail) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="12"/>tail-&gt;next = new Node {element};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="12"/>tail = tail-&gt;next;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>} else {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="12"/>head = new Node {element};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="12"/>tail = head;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>}</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>}</text:p>
-   <text:p text:style-name="P9">};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">void ListSet::remove(char element)</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9">};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">void ListSet::show()</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>for (auto i = head; i != nullptr; i = i-&gt;next) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>std::cout &lt;&lt; i-&gt;data;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>}</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>std::cout &lt;&lt; std::endl;</text:p>
-   <text:p text:style-name="P9">}</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">ListSet::Node* ListSet::get_Node(char elem_data)</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>for (auto i = head; i != nullptr; i = i-&gt;next) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>if (elem_data == i-&gt;data) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="12"/>return i;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>}</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>}</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>return nullptr;</text:p>
-   <text:p text:style-name="P9">};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">std::string ListSet::to_str() const</text:p>
-   <text:p text:style-name="P9"><text:soft-page-break/>{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>std::string s{};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>for (auto i = head; i != nullptr; i = i-&gt;next) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>s += i-&gt;data;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>}</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>return s;</text:p>
-   <text:p text:style-name="P9">}</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">// === BITS ===</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">BitSet::BitSet() : bit_array {0x0} {};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">BitSet::BitSet(int i) : bit_array {i} {};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">BitSet::BitSet(const char* str)</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>bit_array = 0x0;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>for (int i = 0; str[i] != &apos;\0&apos;; ++i) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>add(str[i]);</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>}</text:p>
-   <text:p text:style-name="P9">}</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">BitSet BitSet::operator&amp;(const BitSet&amp; another) const</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>Logger::instance()-&gt;log(&quot;Crossing sets: &quot; + to_str() + &quot; and &quot; + another.to_str());</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>return bit_array &amp; another.bit_array;</text:p>
-   <text:p text:style-name="P9">}</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">BitSet BitSet::operator|(const BitSet&amp; another) const</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>Logger::instance()-&gt;log(&quot;Uniting sets: &quot; + to_str() + &quot; and &quot; + another.to_str());</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>return bit_array | another.bit_array;</text:p>
-   <text:p text:style-name="P9">}</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">bool BitSet::operator==(const BitSet&amp; another) const</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>return bit_array == another.bit_array;</text:p>
-   <text:p text:style-name="P9">}</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">bool BitSet::operator==(const char* s) const</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>BitSet str_set{s};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>return *this == str_set;</text:p>
-   <text:p text:style-name="P9">}</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:soft-page-break/></text:p>
-   <text:p text:style-name="P9">void BitSet::add(char ch)</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>bit_array |= ctb(ch);</text:p>
-   <text:p text:style-name="P9">};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">void BitSet::remove(char ch)</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>bit_array &amp;= ~ctb(ch);</text:p>
-   <text:p text:style-name="P9">};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">int BitSet::ctb(char ch)</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>int bytes = 0x0;</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>if (ch &gt;= &apos;0&apos; &amp;&amp; ch &lt;= &apos;9&apos;) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>bytes = 0x1 &lt;&lt; (ch - &apos;0&apos;);</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>} else if (ch &gt;= &apos;A&apos; &amp;&amp; ch &lt;= &apos;F&apos;) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>bytes = 0x400 &lt;&lt; (ch - &apos;A&apos;);</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>} else if (ch &gt;= &apos;a&apos; &amp;&amp; ch &lt;= &apos;f&apos;) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>bytes = 0x400 &lt;&lt; (ch - &apos;a&apos;);</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>}</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>return bytes;</text:p>
-   <text:p text:style-name="P9">}</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">std::string BitSet::bts(int bytes) const</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>std::string str {};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>char cur_hex_digit {&apos;0&apos;};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>while (cur_hex_digit != &apos;F&apos; + 1) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>if (cur_hex_digit == &apos;9&apos; + 1) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="12"/>cur_hex_digit = &apos;A&apos;;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>}</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="8"/>if (bytes &amp; 0x1) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="12"/>str += cur_hex_digit;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>}</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="8"/>cur_hex_digit++;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>bytes &gt;&gt;= 1;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>}</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>return str;</text:p>
-   <text:p text:style-name="P9">};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">void BitSet::show()</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>std::cout &lt;&lt; bts(bit_array) &lt;&lt; std::endl;</text:p>
-   <text:p text:style-name="P9"><text:soft-page-break/>}</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">void BitSet::showBits()</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>std::cout &lt;&lt; std::bitset&lt;32&gt;(bit_array) &lt;&lt; std::endl;</text:p>
-   <text:p text:style-name="P9">}</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">std::string BitSet::to_str() const</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>return std::string{bts(bit_array)};</text:p>
-   <text:p text:style-name="P9">}</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">std::ostream&amp; operator &lt;&lt; (std::ostream&amp; os, const ArraySet&amp; hs)</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>return os &lt;&lt; hs.array;</text:p>
-   <text:p text:style-name="P9">}</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">std::ostream&amp; operator &lt;&lt; (std::ostream&amp; os, const ListSet&amp; hs)</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>for (auto i = hs.head; i != nullptr; i = i-&gt;next) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>os &lt;&lt; i-&gt;data;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>}</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>return os;</text:p>
-   <text:p text:style-name="P9">}</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">std::ostream&amp; operator &lt;&lt; (std::ostream&amp; os, const BitSet&amp; hs)</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>return os &lt;&lt; hs.bts(hs.bit_array);</text:p>
-   <text:p text:style-name="P9">}</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P8">=====================Файл Logger.cpp======================</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">#include &quot;Logger.h&quot;</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">Logger* Logger::_instance = nullptr;</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">Logger* Logger::instance() {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>if (_instance == nullptr)</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>_instance = new Logger;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>return _instance;</text:p>
-   <text:p text:style-name="P9">}</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P8">=====================Файл Logger.h======================</text:p>
-   <text:p text:style-name="P9">#ifndef LOGGER_H</text:p>
-   <text:p text:style-name="P9">#define LOGGER_H</text:p>
-   <text:p text:style-name="P9"><text:soft-page-break/></text:p>
-   <text:p text:style-name="P9">#include &lt;iostream&gt;</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">class Logger {</text:p>
-   <text:p text:style-name="P9">private:</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>static const bool DEBUG = true;</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>static Logger* _instance;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>Logger() = default;</text:p>
-   <text:p text:style-name="P9">public:</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>static Logger* instance();</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>void log(const std::string&amp; data) {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>if (DEBUG)</text:p>
-   <text:p text:style-name="P9"><text:s text:c="12"/>std::cout &lt;&lt; &quot;[DEBUG] &quot; &lt;&lt; data &lt;&lt; std::endl;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>}</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">#endif</text:p>
-   <text:p text:style-name="P8"/>
-   <text:p text:style-name="P8">=====================Файл sets.h======================</text:p>
-   <text:p text:style-name="P9">#ifndef SETS_H</text:p>
-   <text:p text:style-name="P9">#define SETS_H</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">#include &lt;iostream&gt;</text:p>
-   <text:p text:style-name="P9">#include &lt;bitset&gt;</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">class ArraySet</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9">public:</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ArraySet();</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ArraySet ( const char* );</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ArraySet ( const ArraySet&amp; ) = default;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ArraySet ( ArraySet&amp;&amp; ) = default;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>~ArraySet() = default;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ArraySet&amp; operator = ( const ArraySet&amp; ) = default;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ArraySet&amp; operator = ( ArraySet&amp;&amp; ) = default;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ArraySet operator &amp; ( const ArraySet&amp; ) const ;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ArraySet operator | ( const ArraySet&amp; ) const ;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>bool operator == ( const ArraySet&amp; ) const;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>bool operator == ( const char* ) const;</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>void add ( char element );</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>void remove ( char element );</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>void show();</text:p>
-   <text:p text:style-name="P9"><text:soft-page-break/></text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>std::string to_str() const;</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>enum {SET_POWER = 16};</text:p>
-   <text:p text:style-name="P9">private:</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>friend std::ostream&amp; operator &lt;&lt; ( std::ostream&amp; os, const ArraySet&amp; hs );</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>char array[SET_POWER + 1];</text:p>
-   <text:p text:style-name="P9">};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">class ListSet</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9">public:</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ListSet();</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ListSet ( const char* );</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ListSet ( const ListSet&amp; );</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ListSet ( ListSet&amp;&amp; );</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>~ListSet();</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ListSet&amp; operator = ( const ListSet&amp; );</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ListSet&amp; operator = ( ListSet&amp;&amp; );</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ListSet operator &amp; ( const ListSet&amp; ) const;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>ListSet operator | ( const ListSet&amp; ) const;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>bool operator == ( const ListSet&amp; ) const;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>bool operator == ( const char* ) const;</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>void add ( char elem );</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>void remove ( char elem );</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>void show();</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>std::string to_str() const;</text:p>
-   <text:p text:style-name="P9">private:</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>friend std::ostream&amp; operator &lt;&lt; ( std::ostream&amp; os, const ListSet&amp; hs );</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>struct Node {</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>Node(char e) : data{e}, next{nullptr} {};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="8"/>char data;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="8"/>Node* next;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>};</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>Node* head;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>Node* tail;</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>Node* get_Node ( char );</text:p>
-   <text:p text:style-name="P9">};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">class BitSet</text:p>
-   <text:p text:style-name="P9">{</text:p>
-   <text:p text:style-name="P9">public:</text:p>
-   <text:p text:style-name="P9"><text:soft-page-break/><text:s text:c="4"/>BitSet();</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>BitSet ( int );</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>BitSet ( const char* );</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>BitSet ( const BitSet&amp; ) = default;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>BitSet ( BitSet&amp;&amp; ) = default;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>~BitSet() = default;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>BitSet&amp; operator = ( const BitSet&amp; ) = default;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>BitSet&amp; operator = ( BitSet&amp;&amp; ) = default;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>BitSet operator &amp; ( const BitSet&amp; ) const;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>BitSet operator | ( const BitSet&amp; ) const;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>bool operator == ( const BitSet&amp; ) const;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>bool operator == ( const char* ) const;</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>void add ( char elem );</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>void remove ( char elem );</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>void show();</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>void showBits();</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>std::string to_str() const;</text:p>
-   <text:p text:style-name="P9">private:</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>int ctb ( char );</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>std::string bts ( int bytes ) const;</text:p>
-   <text:p text:style-name="P9"><text:s text:c="4"/>friend std::ostream&amp; operator &lt;&lt; ( std::ostream&amp; os, const BitSet&amp; hs );</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:s text:c="4"/>int bit_array;</text:p>
-   <text:p text:style-name="P9">};</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9">#endif</text:p>
-   <text:p text:style-name="P9"/>
-   <text:p text:style-name="P8">Список источников:</text:p>
-   <text:p text:style-name="P7"/>
-   <text:list xml:id="list598381306" text:style-name="WWNum2">
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P12"/>
+   <text:p text:style-name="P14">Код программы:</text:p>
+   <text:p text:style-name="P14"/>
+   <text:p text:style-name="P14">=====================Файл main.cpp======================</text:p>
+   <text:p text:style-name="P16"><text:soft-page-break/>#include &lt;time.h&gt;</text:p>
+   <text:p text:style-name="P16">#include &lt;iostream&gt;</text:p>
+   <text:p text:style-name="P16">#include &quot;Sets.h&quot;</text:p>
+   <text:p text:style-name="P16">#include &quot;Logger.h&quot;</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">char* set_gen();</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">int main(int argc, char **argv) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>using namespace std;</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>srand(time(NULL));</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>char st_A [ArraySet::SET_POWER + 1] {&quot;012&quot;};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>char st_B [ArraySet::SET_POWER + 1] {&quot;1356&quot;};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>char st_C [ArraySet::SET_POWER + 1] {&quot;2895&quot;};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>char st_D [ArraySet::SET_POWER + 1] {&quot;0126985&quot;};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ArraySet A {st_A};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ArraySet B {st_B};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ArraySet C {st_C};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ArraySet D {st_D};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ArraySet E {};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>cout &lt;&lt; &quot;Input: &quot; &lt;&lt; endl;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>cout &lt;&lt; A &lt;&lt; endl</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>&lt;&lt; B &lt;&lt; endl</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>&lt;&lt; C &lt;&lt; endl</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>&lt;&lt; D &lt;&lt; endl;</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>E = A | (B &amp; C &amp; D);</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>cout &lt;&lt; &quot;Result: &quot; &lt;&lt; endl;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>cout &lt;&lt; E &lt;&lt; endl;</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>char choice = 0;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>cout &lt;&lt; &quot;Generate, input from keyboard or run benchmark? (G\\K\\B) &quot;;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>cin &gt;&gt; choice;</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>if (choice == &apos;G&apos; || choice == &apos;g&apos;) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>A = set_gen();</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>B = set_gen();</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>C = set_gen();</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>D = set_gen();</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>}</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>else if (choice == &apos;K&apos; || choice == &apos;k&apos;) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>cout &lt;&lt; &quot;Type hexadecimal numbers in one string, without duplicates.&quot; &lt;&lt; endl;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>cout &lt;&lt; &quot;Set A: &quot;;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>cin &gt;&gt; st_A;</text:p>
+   <text:p text:style-name="P16"><text:soft-page-break/><text:s text:c="8"/>cout &lt;&lt; &quot;Set B: &quot;;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>cin &gt;&gt; st_B;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>cout &lt;&lt; &quot;Set C: &quot;;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>cin &gt;&gt; st_C;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>cout &lt;&lt; &quot;Set D: &quot;;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>cin &gt;&gt; st_D;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>}</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>else if (choice == &apos;B&apos; || choice == &apos;b&apos;) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>enum {REPEAT_NUM = 10000};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="8"/>ArraySet arr_A {st_A};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>ArraySet arr_B {st_B};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>ArraySet arr_C {st_C};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>ArraySet arr_D {st_D};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>ArraySet arr_E {};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="8"/>unsigned long start_time = clock();</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>for (int z = 0; z &lt; REPEAT_NUM; z++) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="12"/>arr_E = arr_A | (arr_B &amp; arr_C &amp; arr_D);</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>}</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>unsigned long finish_time = clock();</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>double arr_time = (finish_time - start_time)/* / static_cast&lt;double&gt;(REPEAT_NUM)*/;</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="8"/>ListSet list_A {st_A};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>ListSet list_B {st_B};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>ListSet list_C {st_C};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>ListSet list_D {st_D};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>ListSet list_E {};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="8"/>start_time = clock();</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>for (int z = 0; z &lt; REPEAT_NUM; z++) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="12"/>list_E = list_A | (list_B &amp; list_C &amp; list_D);</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>}</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>finish_time = clock();</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>double list_time = (finish_time - start_time)/* / static_cast&lt;double&gt;(REPEAT_NUM)*/;</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="8"/>BitSet bits_A {st_A};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>BitSet bits_B {st_B};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>BitSet bits_C {st_C};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>BitSet bits_D {st_D};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>BitSet bits_E {};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="8"/>start_time = clock();</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>for (int z = 0; z &lt; REPEAT_NUM; z++) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="12"/>bits_E = bits_A | (bits_B &amp; bits_C &amp; bits_D);</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>}</text:p>
+   <text:p text:style-name="P16"><text:soft-page-break/><text:s text:c="8"/>finish_time = clock();</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>double bits_time = (finish_time - start_time) /*/ static_cast&lt;double&gt;(REPEAT_NUM)*/;</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="8"/>cout &lt;&lt; &quot;Array time: &quot; &lt;&lt; arr_time &lt;&lt; endl;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>cout &lt;&lt; &quot;Lists clocks: &quot; &lt;&lt; list_time &lt;&lt; endl;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>cout &lt;&lt; &quot;Bits clocks: &quot; &lt;&lt; bits_time &lt;&lt; endl;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>return 0;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>}</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>// ARRAYS</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ArraySet arr_A {st_A};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ArraySet arr_B {st_B};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ArraySet arr_C {st_C};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ArraySet arr_D {st_D};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ArraySet arr_E {arr_A | (arr_B &amp; arr_C &amp; arr_D)};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>cout &lt;&lt; &quot;Sets as arrays: &quot; &lt;&lt; endl;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>cout &lt;&lt; &quot;Input: &quot; &lt;&lt; endl;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>arr_A.show();</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>arr_B.show();</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>arr_C.show();</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>arr_D.show();</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>cout &lt;&lt; &quot;Result: &quot; &lt;&lt; endl;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>arr_E.show();</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>// LIST</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ListSet list_A {st_A};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ListSet list_B {st_B};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ListSet list_C {st_C};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ListSet list_D {st_D};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ListSet list_E {list_A | (list_B &amp; list_C &amp; list_D)};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>cout &lt;&lt; &quot;Sets as lists: &quot; &lt;&lt; endl;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>cout &lt;&lt; &quot;Input: &quot; &lt;&lt; endl;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>list_A.show();</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>list_B.show();</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>list_C.show();</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>list_D.show();</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>cout &lt;&lt; &quot;Result: &quot; &lt;&lt; endl;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>list_E.show();</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>// BIT ARRAY</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>BitSet bits_A {st_A};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>BitSet bits_B {st_B};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>BitSet bits_C {st_C};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>BitSet bits_D {st_D};</text:p>
+   <text:p text:style-name="P16"><text:soft-page-break/><text:s text:c="4"/>BitSet bits_E {bits_A | (bits_B &amp; bits_C &amp; bits_D)};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>cout &lt;&lt; &quot;Sets as bits: &quot; &lt;&lt; endl;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>cout &lt;&lt; &quot;Input: &quot; &lt;&lt; endl;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>bits_A.show();</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>bits_B.show();</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>bits_C.show();</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>bits_D.show();</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>cout &lt;&lt; &quot;Result: &quot; &lt;&lt; endl;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>bits_E.show();</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>return 0;</text:p>
+   <text:p text:style-name="P16">}</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">char* set_gen()</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>char* A = new char[ArraySet::SET_POWER + 1];</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>char mask[] = &quot;0123456789ABCDEF&quot;;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>int j = 0;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>for (int i = 0; i &lt; 15; i++)</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>if (rand() % 2 == 1)</text:p>
+   <text:p text:style-name="P16"><text:s text:c="12"/>A[j++] = mask[i];</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>A[j] = &apos;\0&apos;;</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>return A;</text:p>
+   <text:p text:style-name="P16">}</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P14"/>
+   <text:p text:style-name="P14">=====================Файл sets.cpp======================</text:p>
+   <text:p text:style-name="P16">#include &quot;Sets.h&quot;</text:p>
+   <text:p text:style-name="P16">#include &quot;Logger.h&quot;</text:p>
+   <text:p text:style-name="P16">#include &lt;iostream&gt;</text:p>
+   <text:p text:style-name="P16">#include &lt;bitset&gt;</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">// === ARRAY ===</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">ArraySet::ArraySet()</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>array[0] = &apos;\0&apos;;</text:p>
+   <text:p text:style-name="P16">};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">ArraySet::ArraySet(const char* str)</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>int i {0};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>for (; i &lt; SET_POWER &amp;&amp; str[i] != &apos;\0&apos;; ++i) {</text:p>
+   <text:p text:style-name="P16"><text:soft-page-break/><text:s text:c="8"/>array[i] = str[i];</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>}</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>array[i] = &apos;\0&apos;;</text:p>
+   <text:p text:style-name="P16">};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">ArraySet ArraySet::operator &amp; (const ArraySet&amp; another) const</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>Logger::instance()-&gt;log(&quot;Crossing sets: &quot; + to_str() + &quot; and &quot; + another.to_str());</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ArraySet new_set {};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>for (int i = 0; array[i] != &apos;\0&apos;; i++)</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>for (int j = 0; another.array[j] != &apos;\0&apos;; j++)</text:p>
+   <text:p text:style-name="P16"><text:s text:c="12"/>if (array[i] == another.array[j]) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="16"/>new_set.add(array[i]);</text:p>
+   <text:p text:style-name="P16"><text:s text:c="12"/>}</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>return new_set;</text:p>
+   <text:p text:style-name="P16">};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">ArraySet ArraySet::operator | (const ArraySet&amp; another) const</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>Logger::instance()-&gt;log(&quot;Uniting sets: &quot; + to_str() + &quot; and &quot; + another.to_str());</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ArraySet new_set {};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>for (int i = 0; i &lt; array[i] != &apos;\0&apos;; i++) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>int j = 0;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>for (; another.array[j] != &apos;\0&apos;; j++)</text:p>
+   <text:p text:style-name="P16"><text:s text:c="12"/>if (array[i] == another.array[j]) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="16"/>break;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="12"/>}</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>if (another.array[j] == &apos;\0&apos;) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="12"/>new_set.add(array[i]);</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>}</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>}</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>for (int i = 0; another.array[i] != &apos;\0&apos;; ++i) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>new_set.add(another.array[i]);</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>}</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>return new_set;</text:p>
+   <text:p text:style-name="P16">};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">bool ArraySet::operator==(const ArraySet&amp; another) const</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>for (int i = 0;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="12"/>array[i] != &apos;\0&apos; &amp;&amp; another.array[i] != &apos;\0&apos;;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="12"/>i++</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>) {</text:p>
+   <text:p text:style-name="P16"><text:soft-page-break/><text:s text:c="8"/>if (array[i] != another.array[i]) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="12"/>return false;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>}</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>}</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>return true;</text:p>
+   <text:p text:style-name="P16">}</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">bool ArraySet::operator==(const char* s) const</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ArraySet str_set {s};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>return *this == str_set;</text:p>
+   <text:p text:style-name="P16">}</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">void ArraySet::add(char element)</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>for (int i = 0; i &lt; SET_POWER; ++i) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>if (array[i] == element)</text:p>
+   <text:p text:style-name="P16"><text:s text:c="12"/>return;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>else if (array[i] == &apos;\0&apos;) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="12"/>array[i] = element;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="12"/>array[i+1] = &apos;\0&apos;;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="12"/>return;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>}</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>}</text:p>
+   <text:p text:style-name="P16">}</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">void ArraySet::remove(char element)</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16">}</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">void ArraySet::show()</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>std::cout &lt;&lt; array &lt;&lt; std::endl;</text:p>
+   <text:p text:style-name="P16">}</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">std::string ArraySet::to_str() const</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>return std::string{array};</text:p>
+   <text:p text:style-name="P16">}</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">// === LIST ===</text:p>
+   <text:p text:style-name="P16">ListSet::ListSet() : head {nullptr}, tail {nullptr} {};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">ListSet::ListSet(const char* str) : head(nullptr), tail(nullptr)</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>for (int i = 0; str[i] != &apos;\0&apos;; i++) {</text:p>
+   <text:p text:style-name="P16"><text:soft-page-break/><text:s text:c="8"/>add(str[i]);</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>}</text:p>
+   <text:p text:style-name="P16">};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">ListSet::ListSet(const ListSet&amp; another)</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>head = nullptr;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>tail = nullptr;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>for (auto i = another.head; i != nullptr; i = i-&gt;next) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>add(i-&gt;data);</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>}</text:p>
+   <text:p text:style-name="P16">};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">ListSet::ListSet(ListSet &amp;&amp; another) : head {another.head}, tail {another.tail} {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>another.head = nullptr;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>another.tail = nullptr;</text:p>
+   <text:p text:style-name="P16">};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">ListSet&amp; ListSet::operator=(const ListSet&amp; another)</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>if (this != &amp;another) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>head = nullptr;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>tail = nullptr;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>for (auto i = another.head; i != nullptr; i = i-&gt;next) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="12"/>add(i-&gt;data);</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>}</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>}</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>return *this;</text:p>
+   <text:p text:style-name="P16">};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">ListSet&amp; ListSet::operator=(ListSet &amp;&amp; another)</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>if (this != &amp;another) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>head = another.head;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>tail = another.tail;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>another.head = nullptr;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>another.tail = nullptr;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>}</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>return *this;</text:p>
+   <text:p text:style-name="P16">};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">ListSet::~ListSet()</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>while (head) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>auto fordel = head;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>head = head-&gt;next;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>delete fordel;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>};</text:p>
+   <text:p text:style-name="P16"><text:soft-page-break/>};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">ListSet ListSet::operator&amp;(const ListSet&amp; another) const</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>Logger::instance()-&gt;log(&quot;Crossing sets: &quot; + to_str() + &quot; and &quot; + another.to_str());</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ListSet new_set {};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>for (auto cur = head; cur; cur = cur-&gt;next) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>for (auto cur2 = another.head; cur2; cur2 = cur2-&gt;next)</text:p>
+   <text:p text:style-name="P16"><text:s text:c="12"/>if (cur-&gt;data == cur2-&gt;data) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="16"/>new_set.add(cur-&gt;data);</text:p>
+   <text:p text:style-name="P16"><text:s text:c="12"/>}</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>}</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>return new_set;</text:p>
+   <text:p text:style-name="P16">};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">ListSet ListSet::operator|(const ListSet&amp; another) const</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>Logger::instance()-&gt;log(&quot;Uniting sets: &quot; + to_str() + &quot; and &quot; + another.to_str());</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ListSet new_set {};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>for (auto cur = head; cur; cur = cur-&gt;next) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>auto cur2 = another.head;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>for (; cur2; cur2 = cur2-&gt;next)</text:p>
+   <text:p text:style-name="P16"><text:s text:c="12"/>if (cur-&gt;data == cur2-&gt;data) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="16"/>break;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="12"/>}</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>if (!cur2) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="12"/>new_set.add(cur-&gt;data);</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>}</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>}</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>for (auto cur2 = another.head; cur2; cur2 = cur2-&gt;next) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>new_set.add(cur2-&gt;data);</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>}</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>return new_set;</text:p>
+   <text:p text:style-name="P16">};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">bool ListSet::operator==(const ListSet&amp; another) const</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>for (auto i = head; i != nullptr; i = i-&gt;next) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>for (auto j = another.head; j != nullptr; j = j-&gt;next) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="12"/>if (i-&gt;data != j-&gt;data) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="16"/>return false;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="12"/>}</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>}</text:p>
+   <text:p text:style-name="P16"><text:soft-page-break/><text:s text:c="4"/>}</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>return true;</text:p>
+   <text:p text:style-name="P16">};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">bool ListSet::operator==(const char* s) const</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ListSet str_set {s};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>return *this == str_set;</text:p>
+   <text:p text:style-name="P16">};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">void ListSet::add(char element)</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>if (!get_Node(element)) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>if (tail) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="12"/>tail-&gt;next = new Node {element};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="12"/>tail = tail-&gt;next;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>} else {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="12"/>head = new Node {element};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="12"/>tail = head;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>}</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>}</text:p>
+   <text:p text:style-name="P16">};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">void ListSet::remove(char element)</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16">};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">void ListSet::show()</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>for (auto i = head; i != nullptr; i = i-&gt;next) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>std::cout &lt;&lt; i-&gt;data;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>}</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>std::cout &lt;&lt; std::endl;</text:p>
+   <text:p text:style-name="P16">}</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">ListSet::Node* ListSet::get_Node(char elem_data)</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>for (auto i = head; i != nullptr; i = i-&gt;next) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>if (elem_data == i-&gt;data) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="12"/>return i;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>}</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>}</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>return nullptr;</text:p>
+   <text:p text:style-name="P16">};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">std::string ListSet::to_str() const</text:p>
+   <text:p text:style-name="P16"><text:soft-page-break/>{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>std::string s{};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>for (auto i = head; i != nullptr; i = i-&gt;next) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>s += i-&gt;data;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>}</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>return s;</text:p>
+   <text:p text:style-name="P16">}</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">// === BITS ===</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">BitSet::BitSet() : bit_array {0x0} {};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">BitSet::BitSet(int i) : bit_array {i} {};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">BitSet::BitSet(const char* str)</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>bit_array = 0x0;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>for (int i = 0; str[i] != &apos;\0&apos;; ++i) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>add(str[i]);</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>}</text:p>
+   <text:p text:style-name="P16">}</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">BitSet BitSet::operator&amp;(const BitSet&amp; another) const</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>Logger::instance()-&gt;log(&quot;Crossing sets: &quot; + to_str() + &quot; and &quot; + another.to_str());</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>return bit_array &amp; another.bit_array;</text:p>
+   <text:p text:style-name="P16">}</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">BitSet BitSet::operator|(const BitSet&amp; another) const</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>Logger::instance()-&gt;log(&quot;Uniting sets: &quot; + to_str() + &quot; and &quot; + another.to_str());</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>return bit_array | another.bit_array;</text:p>
+   <text:p text:style-name="P16">}</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">bool BitSet::operator==(const BitSet&amp; another) const</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>return bit_array == another.bit_array;</text:p>
+   <text:p text:style-name="P16">}</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">bool BitSet::operator==(const char* s) const</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>BitSet str_set{s};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>return *this == str_set;</text:p>
+   <text:p text:style-name="P16">}</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P16">void BitSet::add(char ch)</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>bit_array |= ctb(ch);</text:p>
+   <text:p text:style-name="P16">};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">void BitSet::remove(char ch)</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>bit_array &amp;= ~ctb(ch);</text:p>
+   <text:p text:style-name="P16">};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">int BitSet::ctb(char ch)</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>int bytes = 0x0;</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>if (ch &gt;= &apos;0&apos; &amp;&amp; ch &lt;= &apos;9&apos;) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>bytes = 0x1 &lt;&lt; (ch - &apos;0&apos;);</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>} else if (ch &gt;= &apos;A&apos; &amp;&amp; ch &lt;= &apos;F&apos;) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>bytes = 0x400 &lt;&lt; (ch - &apos;A&apos;);</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>} else if (ch &gt;= &apos;a&apos; &amp;&amp; ch &lt;= &apos;f&apos;) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>bytes = 0x400 &lt;&lt; (ch - &apos;a&apos;);</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>}</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>return bytes;</text:p>
+   <text:p text:style-name="P16">}</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">std::string BitSet::bts(int bytes) const</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>std::string str {};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>char cur_hex_digit {&apos;0&apos;};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>while (cur_hex_digit != &apos;F&apos; + 1) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>if (cur_hex_digit == &apos;9&apos; + 1) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="12"/>cur_hex_digit = &apos;A&apos;;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>}</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="8"/>if (bytes &amp; 0x1) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="12"/>str += cur_hex_digit;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>}</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="8"/>cur_hex_digit++;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>bytes &gt;&gt;= 1;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>}</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>return str;</text:p>
+   <text:p text:style-name="P16">};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">void BitSet::show()</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>std::cout &lt;&lt; bts(bit_array) &lt;&lt; std::endl;</text:p>
+   <text:p text:style-name="P16"><text:soft-page-break/>}</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">void BitSet::showBits()</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>std::cout &lt;&lt; std::bitset&lt;32&gt;(bit_array) &lt;&lt; std::endl;</text:p>
+   <text:p text:style-name="P16">}</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">std::string BitSet::to_str() const</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>return std::string{bts(bit_array)};</text:p>
+   <text:p text:style-name="P16">}</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">std::ostream&amp; operator &lt;&lt; (std::ostream&amp; os, const ArraySet&amp; hs)</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>return os &lt;&lt; hs.array;</text:p>
+   <text:p text:style-name="P16">}</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">std::ostream&amp; operator &lt;&lt; (std::ostream&amp; os, const ListSet&amp; hs)</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>for (auto i = hs.head; i != nullptr; i = i-&gt;next) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>os &lt;&lt; i-&gt;data;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>}</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>return os;</text:p>
+   <text:p text:style-name="P16">}</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">std::ostream&amp; operator &lt;&lt; (std::ostream&amp; os, const BitSet&amp; hs)</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>return os &lt;&lt; hs.bts(hs.bit_array);</text:p>
+   <text:p text:style-name="P16">}</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P14">=====================Файл Logger.cpp======================</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">#include &quot;Logger.h&quot;</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">Logger* Logger::_instance = nullptr;</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">Logger* Logger::instance() {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>if (_instance == nullptr)</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>_instance = new Logger;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>return _instance;</text:p>
+   <text:p text:style-name="P16">}</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P14">=====================Файл Logger.h======================</text:p>
+   <text:p text:style-name="P16">#ifndef LOGGER_H</text:p>
+   <text:p text:style-name="P16">#define LOGGER_H</text:p>
+   <text:p text:style-name="P16"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P16">#include &lt;iostream&gt;</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">class Logger {</text:p>
+   <text:p text:style-name="P16">private:</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>static const bool DEBUG = true;</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>static Logger* _instance;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>Logger() = default;</text:p>
+   <text:p text:style-name="P16">public:</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>static Logger* instance();</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>void log(const std::string&amp; data) {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>if (DEBUG)</text:p>
+   <text:p text:style-name="P16"><text:s text:c="12"/>std::cout &lt;&lt; &quot;[DEBUG] &quot; &lt;&lt; data &lt;&lt; std::endl;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>}</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">#endif</text:p>
+   <text:p text:style-name="P14"/>
+   <text:p text:style-name="P14">=====================Файл sets.h======================</text:p>
+   <text:p text:style-name="P16">#ifndef SETS_H</text:p>
+   <text:p text:style-name="P16">#define SETS_H</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">#include &lt;iostream&gt;</text:p>
+   <text:p text:style-name="P16">#include &lt;bitset&gt;</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">class ArraySet</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16">public:</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ArraySet();</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ArraySet ( const char* );</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ArraySet ( const ArraySet&amp; ) = default;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ArraySet ( ArraySet&amp;&amp; ) = default;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>~ArraySet() = default;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ArraySet&amp; operator = ( const ArraySet&amp; ) = default;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ArraySet&amp; operator = ( ArraySet&amp;&amp; ) = default;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ArraySet operator &amp; ( const ArraySet&amp; ) const ;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ArraySet operator | ( const ArraySet&amp; ) const ;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>bool operator == ( const ArraySet&amp; ) const;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>bool operator == ( const char* ) const;</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>void add ( char element );</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>void remove ( char element );</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>void show();</text:p>
+   <text:p text:style-name="P16"><text:soft-page-break/></text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>std::string to_str() const;</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>enum {SET_POWER = 16};</text:p>
+   <text:p text:style-name="P16">private:</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>friend std::ostream&amp; operator &lt;&lt; ( std::ostream&amp; os, const ArraySet&amp; hs );</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>char array[SET_POWER + 1];</text:p>
+   <text:p text:style-name="P16">};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">class ListSet</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16">public:</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ListSet();</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ListSet ( const char* );</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ListSet ( const ListSet&amp; );</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ListSet ( ListSet&amp;&amp; );</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>~ListSet();</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ListSet&amp; operator = ( const ListSet&amp; );</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ListSet&amp; operator = ( ListSet&amp;&amp; );</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ListSet operator &amp; ( const ListSet&amp; ) const;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>ListSet operator | ( const ListSet&amp; ) const;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>bool operator == ( const ListSet&amp; ) const;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>bool operator == ( const char* ) const;</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>void add ( char elem );</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>void remove ( char elem );</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>void show();</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>std::string to_str() const;</text:p>
+   <text:p text:style-name="P16">private:</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>friend std::ostream&amp; operator &lt;&lt; ( std::ostream&amp; os, const ListSet&amp; hs );</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>struct Node {</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>Node(char e) : data{e}, next{nullptr} {};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="8"/>char data;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="8"/>Node* next;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>};</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>Node* head;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>Node* tail;</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>Node* get_Node ( char );</text:p>
+   <text:p text:style-name="P16">};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">class BitSet</text:p>
+   <text:p text:style-name="P16">{</text:p>
+   <text:p text:style-name="P16">public:</text:p>
+   <text:p text:style-name="P16"><text:soft-page-break/><text:s text:c="4"/>BitSet();</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>BitSet ( int );</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>BitSet ( const char* );</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>BitSet ( const BitSet&amp; ) = default;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>BitSet ( BitSet&amp;&amp; ) = default;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>~BitSet() = default;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>BitSet&amp; operator = ( const BitSet&amp; ) = default;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>BitSet&amp; operator = ( BitSet&amp;&amp; ) = default;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>BitSet operator &amp; ( const BitSet&amp; ) const;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>BitSet operator | ( const BitSet&amp; ) const;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>bool operator == ( const BitSet&amp; ) const;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>bool operator == ( const char* ) const;</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>void add ( char elem );</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>void remove ( char elem );</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>void show();</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>void showBits();</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>std::string to_str() const;</text:p>
+   <text:p text:style-name="P16">private:</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>int ctb ( char );</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>std::string bts ( int bytes ) const;</text:p>
+   <text:p text:style-name="P16"><text:s text:c="4"/>friend std::ostream&amp; operator &lt;&lt; ( std::ostream&amp; os, const BitSet&amp; hs );</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"><text:s text:c="4"/>int bit_array;</text:p>
+   <text:p text:style-name="P16">};</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P16">#endif</text:p>
+   <text:p text:style-name="P16"/>
+   <text:p text:style-name="P14">Список источников:</text:p>
+   <text:p text:style-name="P12"/>
+   <text:list xml:id="list3280035770" text:style-name="WWNum2">
     <text:list-item>
-     <text:p text:style-name="P27">Stroustrup B. The C++ Programming Language 4-th edition - Addison Wesley, 2013. - 1366 p.</text:p>
+     <text:p text:style-name="P26">Stroustrup B. The C++ Programming Language 4-th edition - Addison Wesley, 2013. - 1366 p.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P27">Классы и объекты // Алгоритмы и структуры данных - Лекция от 25.09.17</text:p>
+     <text:p text:style-name="P26">Классы и объекты // Алгоритмы и структуры данных - Лекция от 25.09.17</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P27">Конструкторы и деструкторы // Алгоритмы и структуры данных - Лекция от 02.10.17</text:p>
+     <text:p text:style-name="P26">Конструкторы и деструкторы // Алгоритмы и структуры данных - Лекция от 02.10.17</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P27">Перегрузка операторов // Алгоритмы и структуры данных - Лекция от 09.10.17</text:p>
+     <text:p text:style-name="P26">Перегрузка операторов // Алгоритмы и структуры данных - Лекция от 09.10.17</text:p>
     </text:list-item>
    </text:list>
   </office:text>
